@@ -1,2 +1,2 @@
 # Sensor-Hockey
-My first proffesional game
+My first game
